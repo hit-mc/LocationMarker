@@ -13,7 +13,8 @@
 	"link": "https://github.com/TISUnion/LocationMarker",
 	"dependencies": {
 		"minecraft_data_api": "*",
-		"mcdreforged": ">=2.0.0-beta.12"
+		"mcdreforged": ">=2.0.0-beta.12",
+		"location_message": "*"
 	},
 	"entrypoint": "location_marker.entry",
 	"resources": [
